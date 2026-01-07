@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sbika</h1>
-<h3 align="center">🛡️ DevSecOps Engineer | ⚙️ Backend Engineer</h3>
+<h3 align="center">⚙️ Backend Engineer | 🛡️ DevOps Engineer  </h3>
 
 ---
 
@@ -26,16 +26,6 @@
 - Monitoring & observability (Prometheus, Grafana)
 - Backend systems & APIs (NestJS, Node.js)
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedSbika&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSbika&theme=tokyonight" />
-</p>
 
 ---
 
