@@ -4,9 +4,9 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔐 DevSecOps Engineer with strong security-first mindset
 - ⚙️ Backend Engineer specialized in NestJS & Microservices
 - ☁️ Working with Cloud, Docker & Kubernetes
+- 🔐 DevSecOps Engineer enthouthiast
 - 🔁 Building secure CI/CD pipelines
 - 📍 Based in Sousse, Tunisia
 
